@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/menu_group_1">
+        <item
+            android:id="@+id/menu_teac"
+            android:icon="@drawable/ic_global_menu_feed"
+            android:title="课程课表" />
+        <item
+            android:id="@+id/menu_cour"
+            android:icon="@drawable/ic_global_menu_direct"
+            android:title="教师课表" />
+        <item
+            android:id="@+id/menu_grad"
+            android:icon="@drawable/ic_global_menu_news"
+            android:title="班级课表" />
+        <item
+            android:id="@+id/menu_room"
+            android:icon="@drawable/ic_global_menu_popular"
+            android:title="教室课表" />
+        <!--<item-->
+            <!--android:id="@+id/menu_photos_nearby"-->
+            <!--android:icon="@drawable/ic_global_menu_nearby"-->
+            <!--android:title="任选课表" />-->
+        <item
+            android:id="@+id/menu_photo_you_liked"
+            android:icon="@drawable/ic_global_menu_likes"
+            android:title="我的课程" />
+    </group>
+    <group android:id="@+id/menu_group_2">
+        <item
+            android:id="@+id/menu_settings"
+            android:title="设置" />
+        <item
+            android:id="@+id/menu_about"
+            android:title="关于" />
+    </group>
+</menu>

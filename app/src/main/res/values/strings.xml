@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_profile_photo">http://baobaoloveyou.com/flowingdrawer_icon.png</string>
+    <string-array name="lib_search_type">
+        <item>2016-2017学年第二学期</item>
+        <item>2016-2017学年第一学期</item>
+        <item>2015-2016学年第二学期</item>
+        <item>2015-2016学年第一学期</item>
+        <item>2014-2015学年第二学期</item>
+        <item>2014-2015学年第一学期</item>
+    </string-array>
+</resources>
